@@ -1,0 +1,10 @@
+grep ,0_00_01_01_00 labels-test.txt > 0_00_01_01_00.txt
+grep ,0_00_01_02_00 labels-test.txt > 0_00_01_02_00.txt
+grep ,0_00_01_x3_00 labels-test.txt > 0_00_01_x3_00.txt
+grep ,0_00_02_03_00 labels-test.txt > 0_00_02_03_00.txt
+grep ,0_00_02_x4_00 labels-test.txt > 0_00_02_x4_00.txt
+grep ,0_00_03_x5_00 labels-test.txt > 0_00_03_x5_00.txt
+grep ,1_00_01_02_00 labels-test.txt > 1_00_01_02_00.txt
+grep ,1_00_01_x3_00 labels-test.txt > 1_00_01_x3_00.txt
+grep ,1_00_02_x4_00 labels-test.txt > 1_00_02_x4_00.txt
+grep ,1_00_03_x5_00 labels-test.txt > 1_00_03_x5_00.txt
